@@ -1,0 +1,16 @@
+[env]
+TERM = "xterm-256color"
+
+[window]
+opacity = 0.6
+blur = true
+
+[colors.primary]
+background = '#211421'
+foreground = '#f3afe5'
+
+[colors.cursor]
+cursor = '#fbef8d'
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"

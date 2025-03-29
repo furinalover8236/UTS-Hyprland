@@ -41,6 +41,8 @@ cp -r .config ~/
 cp -r .local ~/
 cp -r .spicetify ~/
 cp -r wallpaper ~/
+cp -r .zshrc ~/
+cp -r .bashrc ~/
 ```
 
 4. **Apply Spicetify theme** (only for those has Spotify installed):

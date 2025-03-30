@@ -46,7 +46,6 @@ cp -r .bashrc ~/
 ```
 
 4. **Apply Spicetify theme** (only for those who has Spotify installed):
-Remember you must in `UTS-Hyprland` folder to run following commands
 
 ```bash
 spicetify config current_theme pinkyellow

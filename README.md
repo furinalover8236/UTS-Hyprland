@@ -53,3 +53,11 @@ spicetify apply
 ```
 
 Congratulations! You have successfully completed the installation.
+
+<a href="https://www.star-history.com/#furinalover8236/UTS-Hyprland&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=furinalover8236/UTS-Hyprland&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=furinalover8236/UTS-Hyprland&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=furinalover8236/UTS-Hyprland&type=Date" />
+ </picture>
+</a>

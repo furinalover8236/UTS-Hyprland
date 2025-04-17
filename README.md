@@ -60,10 +60,6 @@ Congratulations! You have successfully completed the installation.
 Open a terminal window and change the project directory to the themes directory.
 ```
 cd path/to/vault/.obsidian/themes
-Clone the sample theme using Git.
-```
-
-```
 git clone https://github.com/furinalover8236/obsidian-uts.git "univtraineesaki"
 ```
 

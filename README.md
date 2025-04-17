@@ -64,9 +64,9 @@ git clone https://github.com/furinalover8236/obsidian-uts.git "univtraineesaki"
 ```
 
 ### Enable theme
-In Obsidian, open Settings.
-In the side menu, select Appearance.
-Next to Themes, select 'Universal Trainee Saki' from the dropdown list.
+ * In Obsidian, open Settings.
+ * In the side menu, select Appearance.
+ * Next to Themes, select 'Universal Trainee Saki' from the dropdown list.
 
 ## Star History
 

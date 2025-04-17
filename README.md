@@ -54,7 +54,7 @@ spicetify apply
 
 Congratulations! You have successfully completed the installation.
 
-## Install Obsidian theme
+## Install Obsidian theme (only if you have Obsidian installed)
 
 ### Donwload theme
 Open a terminal window and change the project directory to the themes directory.
@@ -70,8 +70,7 @@ git clone https://github.com/furinalover8236/obsidian-uts.git "univtraineesaki"
 ### Enable theme
 In Obsidian, open Settings.
 In the side menu, select Appearance.
-Next to Themes, select univstraineesaki from the dropdown list.
-
+Next to Themes, select 'Universal Trainee Saki' from the dropdown list.
 
 ## Star History
 

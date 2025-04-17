@@ -54,6 +54,25 @@ spicetify apply
 
 Congratulations! You have successfully completed the installation.
 
+## Install Obsidian theme
+
+### Donwload theme
+Open a terminal window and change the project directory to the themes directory.
+```
+cd path/to/vault/.obsidian/themes
+Clone the sample theme using Git.
+```
+
+```
+git clone https://github.com/furinalover8236/obsidian-uts.git "univtraineesaki"
+```
+
+### Enable theme
+In Obsidian, open Settings.
+In the side menu, select Appearance.
+Next to Themes, select univstraineesaki from the dropdown list.
+
+
 ## Star History
 
 <a href="https://www.star-history.com/#furinalover8236/UTS-Hyprland&Date">

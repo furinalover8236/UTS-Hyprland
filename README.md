@@ -60,7 +60,7 @@ Congratulations! You have successfully completed the installation.
 Open a terminal window and change the project directory to the themes directory.
 ```
 cd path/to/vault/.obsidian/themes
-git clone https://github.com/furinalover8236/obsidian-uts.git "univtraineesaki"
+git clone https://github.com/furinalover8236/obsidian-uts.git "Universal Trainee Saki"
 ```
 
 ### Enable theme

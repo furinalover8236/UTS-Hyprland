@@ -1,0 +1,49 @@
+# Main text color
+theme[main_fg]="#fbef8d"
+
+# Title color for boxes
+theme[title]="#fbef8d"
+
+# CPU box outline color
+theme[cpu_box]="#f3afe5"
+
+# Memory/disks box outline color
+theme[mem_box]="#f3afe5"
+
+# Net up/down box outline color
+theme[net_box]="#f3afe5"
+
+# Processes box outline color
+theme[proc_box]="#f3afe5"
+
+# Temperature graph colors
+theme[temp_start]="#f3afe5"
+theme[temp_end]="#fbef8d"
+
+# CPU graph colors
+theme[cpu_start]="#f3afe5"
+theme[cpu_end]="#fbef8d"
+
+# Mem/Disk free meter
+theme[free_start]="#f3afe5"
+theme[free_end]="#fbef8d"
+
+# Mem/Disk cached meter
+theme[cached_start]="#f3afe5"
+theme[cached_end]="#fbef8d"
+
+# Mem/Disk available meter
+theme[available_start]="#f3afe5"
+theme[available_end]="#fbef8d"
+
+# Mem/Disk used meter
+theme[used_start]="#f3afe5"
+theme[used_end]="#fbef8d"
+
+# Download graph colors
+theme[download_start]="#f3afe5"
+theme[download_end]="#fbef8d"
+
+# Upload graph colors
+theme[upload_start]="#f3afe5"
+theme[upload_end]="#fbef8d"
